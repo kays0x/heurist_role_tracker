@@ -1,7 +1,3 @@
-# Discord Role Verification API
-
-A simple API to verify if a Discord user has a specific role in a given server.
-
 ## API Usage
 
 Endpoint: `POST /api/verify`
